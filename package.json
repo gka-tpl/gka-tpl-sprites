@@ -1,17 +1,17 @@
 {
   "name": "gka-tpl-sprites",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "gka template sprites",
   "main": "index.js",
   "scripts": {
   },
-  "homepage": "https://github.com/joeyguo/gka-tpl-sprites",
+  "homepage": "https://github.com/gka-tpl/gka-tpl-sprites",
   "bugs": {
-    "url": "https://github.com/joeyguo/gka-tpl-sprites/issues"
+    "url": "https://github.com/gka-tpl/gka-tpl-sprites/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/joeyguo/gka-tpl-sprites.git"
+    "url": "git://github.com/gka-tpl/gka-tpl-sprites.git"
   },
   "keywords": [
     "gka",
