@@ -5,13 +5,13 @@
   "main": "index.js",
   "scripts": {
   },
-  "homepage": "https://github.com/gka-tpl/gka-tpl-sprites",
+  "homepage": "https://github.com/gkajs/gka-tpl-sprites",
   "bugs": {
-    "url": "https://github.com/gka-tpl/gka-tpl-sprites/issues"
+    "url": "https://github.com/gkajs/gka-tpl-sprites/issues"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/gka-tpl/gka-tpl-sprites.git"
+    "url": "git://github.com/gkajs/gka-tpl-sprites.git"
   },
   "keywords": [
     "gka",
