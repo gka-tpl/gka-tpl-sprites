@@ -1,6 +1,6 @@
 {
   "name": "gka-tpl-sprites",
-  "version": "0.0.3",
+  "version": "1.0.0",
   "description": "gka template sprites",
   "main": "index.js",
   "scripts": {
