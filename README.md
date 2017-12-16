@@ -15,7 +15,7 @@
 # Install
 
 ```sh
-$ sudo npm install -g gka                # install gka
+$ npm install -g gka                # install gka
 ```
 
 # Usage
